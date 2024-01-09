@@ -1,4 +1,4 @@
-from file_io import write_file, append_file, read_file
+from file_io import write_file, append_to_file, read_file
 
 def test_write_file(tmp_path):
     """Test write_file()"""
